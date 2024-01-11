@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://actual-glider-21.clerk.accounts.dev",
+      domain: "https://generous-dragon-1.clerk.accounts.dev",
       applicationID: "convex",
     }
   ]
